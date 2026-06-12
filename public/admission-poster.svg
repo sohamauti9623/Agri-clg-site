@@ -1,0 +1,49 @@
+<svg width="1200" height="1600" viewBox="0 0 1200 1600" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Shri Vitthal College of Agriculture Admission Poster</title>
+  <desc id="desc">Premium green and gold admissions poster for Shri Vitthal College of Agriculture.</desc>
+  <rect width="1200" height="1600" fill="#12351f"/>
+  <circle cx="1050" cy="150" r="360" fill="#2e8b57" opacity="0.35"/>
+  <circle cx="110" cy="1450" r="420" fill="#f6b72f" opacity="0.22"/>
+  <path d="M0 1110C190 980 333 1036 504 930C690 815 836 620 1200 680V1600H0V1110Z" fill="#fff8e7"/>
+  <path d="M0 1182C210 1050 390 1120 550 1014C740 886 890 760 1200 820V1600H0V1182Z" fill="#f6b72f" opacity="0.36"/>
+  <g opacity="0.18" stroke="#fff8e7" stroke-width="3">
+    <path d="M160 376C258 290 372 246 502 245C632 246 745 290 843 376"/>
+    <path d="M220 452C304 386 398 354 502 354C606 354 700 386 784 452"/>
+    <path d="M284 526C348 482 421 461 502 461C583 461 656 482 720 526"/>
+  </g>
+  <g transform="translate(86 86)">
+    <rect x="0" y="0" width="104" height="104" rx="30" fill="#f6b72f"/>
+    <text x="52" y="68" text-anchor="middle" font-family="Georgia, serif" font-size="44" font-weight="900" fill="#12351f">SV</text>
+  </g>
+  <text x="86" y="260" font-family="Arial, sans-serif" font-size="30" font-weight="800" letter-spacing="8" fill="#f6b72f">ADMISSIONS OPEN</text>
+  <text x="86" y="370" font-family="Georgia, serif" font-size="88" font-weight="900" fill="#fff8e7">Shri Vitthal</text>
+  <text x="86" y="470" font-family="Georgia, serif" font-size="86" font-weight="900" fill="#fff8e7">College of</text>
+  <text x="86" y="570" font-family="Georgia, serif" font-size="86" font-weight="900" fill="#fff8e7">Agriculture</text>
+  <rect x="86" y="640" width="530" height="78" rx="39" fill="#fff8e7" fill-opacity="0.12" stroke="#fff8e7" stroke-opacity="0.38"/>
+  <text x="124" y="690" font-family="Arial, sans-serif" font-size="34" font-weight="800" fill="#fff8e7">B.Sc. Agriculture • Practical Learning</text>
+  <g transform="translate(86 805)">
+    <rect width="310" height="170" rx="34" fill="#ffffff" fill-opacity="0.92"/>
+    <text x="34" y="64" font-family="Arial, sans-serif" font-size="23" font-weight="800" fill="#1f7a4c">Modern Labs</text>
+    <text x="34" y="110" font-family="Arial, sans-serif" font-size="20" fill="#334155">Soil, seed, crop and</text>
+    <text x="34" y="140" font-family="Arial, sans-serif" font-size="20" fill="#334155">plant science practice</text>
+  </g>
+  <g transform="translate(430 805)">
+    <rect width="310" height="170" rx="34" fill="#ffffff" fill-opacity="0.92"/>
+    <text x="34" y="64" font-family="Arial, sans-serif" font-size="23" font-weight="800" fill="#1f7a4c">Farm Campus</text>
+    <text x="34" y="110" font-family="Arial, sans-serif" font-size="20" fill="#334155">Field demonstrations</text>
+    <text x="34" y="140" font-family="Arial, sans-serif" font-size="20" fill="#334155">and crop exposure</text>
+  </g>
+  <g transform="translate(774 805)">
+    <rect width="310" height="170" rx="34" fill="#ffffff" fill-opacity="0.92"/>
+    <text x="34" y="64" font-family="Arial, sans-serif" font-size="23" font-weight="800" fill="#1f7a4c">Career Focus</text>
+    <text x="34" y="110" font-family="Arial, sans-serif" font-size="20" fill="#334155">Mentoring for agri</text>
+    <text x="34" y="140" font-family="Arial, sans-serif" font-size="20" fill="#334155">enterprise & services</text>
+  </g>
+  <g transform="translate(86 1212)">
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="30" font-weight="900" fill="#12351f">Start your agriculture career with confidence.</text>
+    <text x="0" y="64" font-family="Arial, sans-serif" font-size="24" fill="#334155">Admissions guidance • Hostel support • Scholarships assistance</text>
+    <rect x="0" y="118" width="380" height="84" rx="42" fill="#1f7a4c"/>
+    <text x="190" y="172" text-anchor="middle" font-family="Arial, sans-serif" font-size="27" font-weight="900" fill="white">Apply Now</text>
+    <text x="0" y="262" font-family="Arial, sans-serif" font-size="26" font-weight="900" fill="#6b3f24">Call: +91 99999 99999</text>
+  </g>
+</svg>
