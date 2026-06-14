@@ -1,6 +1,6 @@
-'use client';
+"use client";
 
-import { motion, type HTMLMotionProps } from 'framer-motion';
+import { motion, type HTMLMotionProps, type Variants } from 'framer-motion';
 
 type MotionSectionProps = HTMLMotionProps<'section'> & {
   delay?: number;
@@ -21,3 +21,18 @@ export function MotionSection({ children, delay = 0, ...props }: MotionSectionPr
 }
 
 export const MotionDiv = motion.div;
+
+const riseEase = [0.22, 1, 0.36, 1] as const;
+
+export const riseUp: Variants = {
+  hidden: { opacity: 0, y: 22 },
+  visible: (delay = 0) => ({
+    opacity: 1,
+    y: 0,
+    transition: {
+      duration: 0.55,
+      ease: riseEase,
+      delay,
+    },
+  }),
+};
